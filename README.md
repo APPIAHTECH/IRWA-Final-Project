@@ -34,11 +34,14 @@ This section walks you through how to set up the required environment.
 **Prerequisites**<br>
 No need to have and module install. Since Google Colab is been used to run/process all data.
 
-**DELIVERY  1: TEXT PROCESSING**
+### DELIVERY  1: TEXT PROCESSING
 
-### Acces to GoogleColab
+**Acces to GoogleColab**
 [Model_Tf_IDF_Index_stud](https://drive.google.com/drive/folders/17JuFBoRV_CTMNBXbjcBao1QvwXejlEid?usp=sharing)
 
+### Final LAB
+**Acces to GoogleColab**
+[IRWA_Final_Project](https://drive.google.com/drive/folders/19_MAR5n6FGiqKbTv6uYZTmFDAD8XcqjT?usp=sharing)
 
 ## Usage
 
