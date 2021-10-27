@@ -51,7 +51,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Stephen Appiah- [@linkedin](https://www.linkedin.com/in/stephenappiahtech/) - stephenappiahtech@gmail.com | stephen.appiah01@estudiant.edu.upf | U150298
+Stephen Appiah - [@linkedin](https://www.linkedin.com/in/stephenappiahtech/) - stephenappiahtech@gmail.com | stephen.appiah01@estudiant.edu.upf | U150298
+Umar Muhammad - 319mun@gmail.com | umar.muhammad01@estudiant.upf.edu | U152698
 
 ## Acknowledgements
 
