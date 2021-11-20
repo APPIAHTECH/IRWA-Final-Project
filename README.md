@@ -14,6 +14,7 @@ Build a search engine implementing different indexing and ranking algorithms.
 
 ## About The Project
 
+All the code is displayed in the Jupyter Notebook format.
 Based on the learned from theoretical classes, the seminars, the lab exercises and your own
 research, you are asked to build a search engine implementing different indexing and
 ranking algorithms.
@@ -32,24 +33,10 @@ The task is devided in 4 parts.
 This section walks you through how to set up the required environment.
 
 **Prerequisites**<br>
-No need to have and module install. Since Google Colab is been used to run/process all data.
-
-### DELIVERY  1: Text Processing 29/10/2021
-
-**Acces to GoogleColab**
-[Model_Tf_IDF_Index_stud](https://drive.google.com/drive/folders/17JuFBoRV_CTMNBXbjcBao1QvwXejlEid?usp=sharing)
-
-### DELIVERY  2: Indexing and Evaluation 
-
-**Acces to GoogleColab**
-[Model_Tf_IDF_Index_stud](https://drive.google.com/drive/folders/12uaYoA1Rkr-FYoSUaijWPeeon0x2_gmz?usp=sharing)
-
-
-### Final LAB
-**Acces to GoogleColab**
-[IRWA_Final_Project](https://drive.google.com/drive/folders/19_MAR5n6FGiqKbTv6uYZTmFDAD8XcqjT?usp=sharing)
+You need to have intall numpy and nltk. "python -m pip install numpy" | "python -m pip install nltk"
 
 ## Usage
+Please refer to the comments in the notebook for detail instruction.
 
 ## License
 
